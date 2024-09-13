@@ -85,6 +85,11 @@ h2 {
     margin-bottom: 30px;
 }
 
+.logo img {
+    max-width: 150px;  /* Maximale Breite des Logos */
+    height: auto;      /* Automatische Höhe, um das Seitenverhältnis zu bewahren */
+}
+
 .services-section {
     background-color: #f9f9f9;
     padding: 60px 20px;
